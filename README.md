@@ -15,11 +15,11 @@
 
 - 📫 How to reach me **sanjidasharmin8989@gmail.com**
 
-Favorite Quote: **"Be the change that you wish to see in the world."**
+ Favorite Quote: **"Be the change that you wish to see in the world."**
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 
 <a href="https://linkedin.com/in/sanjida-sharmin-shrestta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjida-sharmin-shrestta" height="30" width="40" /></a>
 
@@ -32,9 +32,8 @@ Favorite Quote: **"Be the change that you wish to see in the world."**
   </a>
 </p>
 <h3 align="left"> Github Stats: </h3>
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SanjidaSharmin8986&show_icons=true&locale=en" alt="SanjidaSharmin8986" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SanjidaSharmin8986&theme=tokyonight-duo" alt="GitHub Streak" /></a>   </p>      
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SanjidaSharmin8986&&theme=dark&hide_border=false" alt="GitHub Streak" /></a>
          
      
         
