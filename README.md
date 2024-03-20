@@ -28,7 +28,7 @@
 <h3 align="left">Languages and Tools: </h3>
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=java,javascript,git,nodejs,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=java,javascript,git,nodejs,vscode,postman, JUnit, Selenium" />
   </a>
 </p>
 <h3 align="left"> Github Stats: </h3>
