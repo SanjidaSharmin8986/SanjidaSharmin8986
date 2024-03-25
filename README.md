@@ -4,9 +4,9 @@
 
 
 <p>🧑‍💻 I am a dedicated Software Quality Assurance (SQA) engineer with 2 years of experience in the software industry. I've worked on various projects for web and app versions. I approach my work with dedication and timeliness and am always eager to learn new things. I believe learning has no limitations, and I strive to stay updated in this ever-changing field. 🚀</p>
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SanjidaSharmin8986&label=Profile%20views&color=0e75b6&style=flat" alt="SanjidaSharmin89865" /> </p>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
 - 🌱 I’m currently learning **Automation testing frameworks**
 
