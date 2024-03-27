@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanjida Sharmin</h1>
 
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=2686B0&center=true&vCenter=true&width=450&lines=Software+Quality+%26+Automation+Engineer.)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=2686B0&center=true&vCenter=true&width=450&lines=Software+Quality+%26+Automation+Engineer.)](https://git.io/typing-svg)
 
 
 <p>🧑‍💻 I am a dedicated Software Quality Assurance (SQA) engineer with 2 years of experience in the software industry. I've worked on various projects for web and app versions. I approach my work with dedication and timeliness and am always eager to learn new things. I believe learning has no limitations, and I strive to stay updated in this ever-changing field. 🚀</p>
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Automation testing frameworks**
 
-- 👨‍💻 All of my projects are available at [SanjidaSharmin8986-repositories](https://github.com/SanjidaSharmin8986?tab=repositories)
+- 👨‍💻 All of my projects are available at [My-Repositories](https://github.com/SanjidaSharmin8986?tab=repositories)
 
 - 💬 Ask me about **Software testing strategies, Automation testing frameworks, Manual Testing.**
 
@@ -27,7 +27,7 @@
 </p>
 
 <h3 align="left">Languages and Tools: </h3>
-<p align="center">
+<p align="left">
   <a href="">
 <img src="https://skillicons.dev/icons?i=java,javascript,git,nodejs,vscode,postman,selenium" />
   </a>
